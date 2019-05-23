@@ -1,6 +1,6 @@
 {
   "name": "@aacassandra/vue-disable-autocomplete",
-  "version": "19.5.23",
+  "version": "19.5.232",
   "description": "Disable autocomplete on input elements",
   "main": "dist/vue-disable-autocomplete",
   "scripts": {
@@ -24,5 +24,13 @@
     "email": "alauddinafifcassandra@programmer.net",
     "url": "aacassandra.github.io"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aacassandra/vue-disable-autocomplete.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aacassandra/vue-disable-autocomplete/issues"
+  },
+  "homepage": "https://github.com/aacassandra/vue-disable-autocomplete#readme"
 }
