@@ -5,7 +5,7 @@ This plugin solves the problem that chrome (or any other browser) doesn't suppor
 **How to use**
 
 ```
-import DisableAutocomplete from 'vue-disable-autocomplete';
+import DisableAutocomplete from '@aacassandra/vue-disable-autocomplete';
 
 Vue.use(DisableAutocomplete);
 ```

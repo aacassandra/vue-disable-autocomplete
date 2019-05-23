@@ -1,6 +1,6 @@
 {
   "name": "@aacassandra/vue-disable-autocomplete",
-  "version": "19.5.232",
+  "version": "19.5.233",
   "description": "Disable autocomplete on input elements",
   "main": "dist/vue-disable-autocomplete",
   "scripts": {
