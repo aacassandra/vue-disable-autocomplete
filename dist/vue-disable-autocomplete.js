@@ -7,7 +7,7 @@ const disableAutocomplete = {
 
       methods: {
         disableAutoComplete() {
-          let elements = document.querySelectorAll('[autocomplete="off"]');
+          let elements = document.querySelectorAll('[autocomplete="chrome-off"]');
 
           if (!elements) {
             return;
